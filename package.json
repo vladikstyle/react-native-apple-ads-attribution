@@ -1,7 +1,7 @@
 {
-  "name": "@hexigames/react-native-apple-ads-attribution",
+  "name": "@vladikstyle/react-native-apple-ads-attribution",
   "version": "1.0.2",
-  "description": "Fetches apple attribution data via iAd and AdServices APIs",
+  "description": "Fetches apple attribution data via NEW AdServices APIs",
   "main": "index",
   "scripts": {
     "release": "release-it"
@@ -12,19 +12,18 @@
     "apple",
     "ads",
     "search-ads",
-    "iAd",
     "AdServices",
     "attribution",
     "attributionDetails",
     "attributionToken"
   ],
-  "repository": "https://github.com/joel-bitar/react-native-apple-ads-attribution",
-  "author": "Benjamin Bjorklund (https://github.com/joel-bitar)",
+  "repository": "https://github.com/vladikstyle/react-native-apple-ads-attribution",
+  "author": "Benjamin Bjorklund (https://github.com/joel-bitar) Upgrade by 'Vlad Vladikstyle" ,
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joel-bitar/react-native-apple-ads-attribution/issues"
+    "url": "https://github.com/vladikstyle/react-native-apple-ads-attribution/issues"
   },
-  "homepage": "https://github.com/joel-bitar/react-native-apple-ads-attribution#readme",
+  "homepage": "https://github.com/vladikstyle/react-native-apple-ads-attribution#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
