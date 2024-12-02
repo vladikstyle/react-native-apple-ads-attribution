@@ -1,6 +1,6 @@
 {
   "name": "@vladikstyle/react-native-apple-ads-attribution",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fetches apple attribution data via NEW AdServices APIs",
   "main": "index",
   "scripts": {
